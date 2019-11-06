@@ -27,52 +27,68 @@
   </nav>
 
   <header>
-    <section id="left-header">
+    <section class="left-header">
       <h1>
 	  <div>Innovation</div>
 	  <div>On</div>
 	  <div>Demand</div>
       </h1>
 
-      <a id="main-cta" href="">Get Started</a>
+      <a class="main-cta" href="">Get Started</a>
     </section>
 
-    <img id="right-header" src="img/header-img.png" alt="Image of a code snippet.">
+    <img class="right-header" src="img/header-img.png" alt="Image of a code snippet.">
   </header>
 
-  <section id="body-content">
+  <section class="body-content">
 
-    <section id="top-content">
+    <section class="top-content">
 
-      <h2>Features</h2>
-      <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      <div class="inline-content">
 
+        <h2>Features</h2>
+        <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      </div>
 
-      <h2>About</h2>
-      <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      <div class="inline-content">
+
+        <h2>About</h2>
+        <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      </div>
+
     </section>
 
     <img class="middle-img" src="img/mid-page-accent.jpg" alt="Image of code snippets across the screen">
   
-    <section id="bottom-content">
-      <h2>Services</h2>
-      <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+    <section class="bottom-content">
+      <div class="inline-content">
+        <h2>Services</h2>
+        <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      </div>
 
+      <div class="inline-content">
+        <h2>Product</h2>
+        <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      </div>
 
-      <h2>Product</h2>
-      <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
-
-      <h2>Vision</h2>
-      <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      <div class="inline-content">
+        <h2>Vision</h2>
+        <p>Aliquam elementum magna eros, ac posuere elvit tempus et. Suspendisse vel tempus odio, in interdutm nisi. Suspendisse eu ornare nisl. Nullam convallis augue justo, at imperdiet metus scelerisque quis.</p>
+      </div>
     </section>
   </section>
 
-  Contact
-  123 Way 456 Street
-  Somewhere, USA
-  1 (888) 888-8888
-  sales@greatidea.io
+  <section class="contact">
+    <h2>Contact</h2>
+    <address>
+	    <p>123 Way 456 Street</p>
+	    <p>Somewhere, USA</p>
+    </address>
+    <div class="phone">1 (888) 888-8888</div>
+    <div class="email">sales@greatidea.io</div>
+  </section>
 
+  <div class 
   Copyright Great Idea! 2018
   
   </body>
