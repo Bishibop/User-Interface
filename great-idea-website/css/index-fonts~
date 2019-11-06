@@ -148,7 +148,7 @@ a.main-cta {
 }
 
 .bottom-content .inline-content {
-	width: 32%;
+	width: 33%;
 }
 
 .bottom-content .inline-content:last-child {

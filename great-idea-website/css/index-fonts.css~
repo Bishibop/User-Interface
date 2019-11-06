@@ -54,7 +54,7 @@ table {
 
 html, body {
     height: 100%;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Indie Flower', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
@@ -148,7 +148,7 @@ a.main-cta {
 }
 
 .bottom-content .inline-content {
-	width: 32%;
+	width: 33%;
 }
 
 .bottom-content .inline-content:last-child {
